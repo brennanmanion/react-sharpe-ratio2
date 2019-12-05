@@ -1,14 +1,14 @@
 {"data":[
-    {"tick":"SPY","percentChange":"0.62%","price":"311.46","weight":"null"},
-    {"tick":"TLT","percentChange":"1.00%","price":"139.80","weight":"null"},
-    {"tick":"XLK","percentChange":"0.41%","price":"86.48","weight":"null"},
-    {"tick":"XLU","percentChange":"0.76%","price":"63.29","weight":"null"},
-    {"tick":"XLRE","percentChange":"0.52%","price":"38.45","weight":"null"},
-    {"tick":"XLP","percentChange":"0.66%","price":"62.45","weight":"null"},
-    {"tick":"XLY","percentChange":"0.56%","price":"120.89","weight":"null"},
-    {"tick":"XLE","percentChange":"1.50%","price":"58.88","weight":"null"},
-    {"tick":"XLF","percentChange":"0.95%","price":"29.82","weight":"null"},
-    {"tick":"XLI","percentChange":"0.39%","price":"80.12","weight":"null"},
-    {"tick":"XLV","percentChange":"0.93%","price":"99.75","weight":"null"},
-    {"tick":"XLB","percentChange":"0.22%","price":"59.19","weight":"null"}
+    {"tick":"SPY","percentChange":"0.62%","price":"311.46","change":"positive","weight":"null"},
+    {"tick":"TLT","percentChange":"1.00%","price":"139.80","change":"negative","weight":"null"},
+    {"tick":"XLK","percentChange":"0.41%","price":"86.48","change":"positive","weight":"null"},
+    {"tick":"XLU","percentChange":"0.76%","price":"63.29","change":"positive","weight":"null"},
+    {"tick":"XLRE","percentChange":"0.52%","price":"38.45","change":"positive","weight":"null"},
+    {"tick":"XLP","percentChange":"0.66%","price":"62.45","change":"positive","weight":"null"},
+    {"tick":"XLY","percentChange":"0.56%","price":"120.89","change":"positive","weight":"null"},
+    {"tick":"XLE","percentChange":"1.50%","price":"58.88","change":"positive","weight":"null"},
+    {"tick":"XLF","percentChange":"0.95%","price":"29.82","change":"positive","weight":"null"},
+    {"tick":"XLI","percentChange":"0.39%","price":"80.12","change":"positive","weight":"null"},
+    {"tick":"XLV","percentChange":"0.93%","price":"99.75","change":"positive","weight":"null"},
+    {"tick":"XLB","percentChange":"0.22%","price":"59.19","change":"positive","weight":"null"}
 ]}
